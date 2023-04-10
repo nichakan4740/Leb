@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Prompt:wght@400;500;600;700&display=swap");
+
+* {
+    font-family: Poppins;
+    font-family: Prompt;
+    // font-size: 5px;
+}
+
+.ant-btn:hover,
+.ant-btn:focus,
+.ant-btn:active {
+    // background-color: #FFF1F0;
+    border-color: #E85440;
+}
+
+.ant-btn:hover span,
+.ant-btn:focus span,
+.ant-btn:active span {
+    color: #E85440;
+}
+
+.ant-dropdown-menu-item:hover,
+.ant-dropdown-item:hover,
+.ant-dropdown-item:hover span,
+.anticon:hover {
+    // background-color: red !important;
+    color: red !important;
+}
